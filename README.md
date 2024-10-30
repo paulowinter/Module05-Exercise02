@@ -4,9 +4,10 @@
 ![Emulator](pdcpictures/Login.png)
 
 ## Adding Employee
-![Emulator](pdcpictures/Employeedelete.png)
-![Emulator](pdcpictures/Employee.png)
+![Emulator](pdcpictures/employeeadd1.png)
+![Emulator](pdcpictures/employeeadd2.png)
+![Emulator](pdcpictures/employeeadd3.png)
 
 ## Deleting Employee
-![Emulator](pdcpictures/Employeedelete.png)
-![Emulator](pdcpictures/Employee.png)
+![Emulator](pdcpictures/employeeadd1.png)
+![Emulator](pdcpictures/employeeadd3.png)
